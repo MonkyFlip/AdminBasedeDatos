@@ -1,11 +1,10 @@
+# 02_regresion_polinomica.py
 import streamlit as st
-import os
-import pandas as pd
+import os, pandas as pd
 from pymongo import MongoClient
 from sklearn.preprocessing import PolynomialFeatures
 from sklearn.linear_model import LinearRegression
 from dotenv import load_dotenv
-import matplotlib.pyplot as plt
 
 load_dotenv()
 
@@ -14,13 +13,10 @@ df = pd.DataFrame(list(MongoClient(uri)[os.getenv("DB_NAME")][os.getenv("COLLECT
 
 st.title("Regresión Polinómica")
 
-X = df[["paginas"]]
-y = df["precio"]
+X = df[["peso"]]
+y = df["precio_mensual"]
 
-poly = PolynomialFeatures(degree=2)
-X_poly = poly.fit_transform(X)
+X_poly = PolynomialFeatures(2).fit_transform(X)
+model = LinearRegression().fit(X_poly, y)
 
-model = LinearRegression()
-model.fit(X_poly, y)
-
-st.write(model.coef_)
+st.write("Coeficientes:", model.coef_)

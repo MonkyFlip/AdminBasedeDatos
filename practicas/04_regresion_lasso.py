@@ -1,6 +1,6 @@
+# 04_lasso.py
 import streamlit as st
-import os
-import pandas as pd
+import os, pandas as pd
 from pymongo import MongoClient
 from sklearn.linear_model import Lasso
 from dotenv import load_dotenv
@@ -12,10 +12,5 @@ df = pd.DataFrame(list(MongoClient(uri)[os.getenv("DB_NAME")][os.getenv("COLLECT
 
 st.title("Regresión Lasso")
 
-X = df[["paginas"]]
-y = df["precio"]
-
-model = Lasso(alpha=0.1)
-model.fit(X, y)
-
+model = Lasso(alpha=0.1).fit(df[["peso"]], df["precio_mensual"])
 st.write(model.coef_)
