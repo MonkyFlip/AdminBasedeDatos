@@ -1,0 +1,902 @@
+[
+  {
+    "cliente_id": 1,
+    "nombre": "Amelia Montero",
+    "email": "trinidad63@example.org",
+    "ciudad": "San Marco Antonio los bajos",
+    "edad": 36,
+    "genero": null,
+    "registro": "2025-08-24"
+  },
+  {
+    "cliente_id": 2,
+    "nombre": "Sr(a). Uriel Correa",
+    "email": "calvillojesus@example.com",
+    "ciudad": "San Paulina los bajos",
+    "edad": 39,
+    "genero": null,
+    "registro": "2022-02-24"
+  },
+  {
+    "cliente_id": 3,
+    "nombre": "Ing. Karla Huerta",
+    "email": "jtejeda@example.net",
+    "ciudad": "San María los altos",
+    "edad": 54,
+    "genero": "M",
+    "registro": "2022-08-15"
+  },
+  {
+    "cliente_id": 4,
+    "nombre": "Gerónimo Hernán Pabón",
+    "email": "narteaga@example.org",
+    "ciudad": "Vieja República Árabe Siria",
+    "edad": 38,
+    "genero": "F",
+    "registro": "2021-10-02"
+  },
+  {
+    "cliente_id": 5,
+    "nombre": "Elias Aguayo Burgos",
+    "email": "solanoruby@example.org",
+    "ciudad": "San Karina los bajos",
+    "edad": 35,
+    "genero": "M",
+    "registro": "2024-11-14"
+  },
+  {
+    "cliente_id": 6,
+    "nombre": "Pascual Minerva Ontiveros Ruelas",
+    "email": "pperales@example.com",
+    "ciudad": "Nueva Liberia",
+    "edad": 47,
+    "genero": "F",
+    "registro": "2021-06-02"
+  },
+  {
+    "cliente_id": 7,
+    "nombre": "Amador Corrales",
+    "email": "zsevilla@example.com",
+    "ciudad": "Nueva Qatar",
+    "edad": 29,
+    "genero": null,
+    "registro": "2024-07-13"
+  },
+  {
+    "cliente_id": 8,
+    "nombre": "Bianca Teodoro Dávila",
+    "email": "rocioadame@example.com",
+    "ciudad": "San Eloisa los bajos",
+    "edad": 75,
+    "genero": null,
+    "registro": "2026-02-14"
+  },
+  {
+    "cliente_id": 9,
+    "nombre": "Débora Diego Rodrígez",
+    "email": "cleyva@example.com",
+    "ciudad": "Vieja Costa Rica",
+    "edad": 64,
+    "genero": "M",
+    "registro": "2025-04-22"
+  },
+  {
+    "cliente_id": 10,
+    "nombre": "Amador Jorge Luis de la Torre",
+    "email": "nadialebron@example.net",
+    "ciudad": "San Estela los bajos",
+    "edad": 70,
+    "genero": null,
+    "registro": "2026-03-28"
+  },
+  {
+    "cliente_id": 11,
+    "nombre": "Sr(a). Luz Corrales",
+    "email": "rafaelsalazar@example.com",
+    "ciudad": "San Camila de la Montaña",
+    "edad": 20,
+    "genero": null,
+    "registro": "2026-02-09"
+  },
+  {
+    "cliente_id": 12,
+    "nombre": "Jorge Luis Jesús Franco",
+    "email": "sofia93@example.net",
+    "ciudad": "Vieja República Checa",
+    "edad": 59,
+    "genero": "F",
+    "registro": "2022-10-28"
+  },
+  {
+    "cliente_id": 13,
+    "nombre": "Lic. Pamela Rascón",
+    "email": "eric96@example.net",
+    "ciudad": "San María Teresa los bajos",
+    "edad": 64,
+    "genero": "M",
+    "registro": "2026-05-22"
+  },
+  {
+    "cliente_id": 14,
+    "nombre": "Susana Balderas Valenzuela",
+    "email": "roquesantiago@example.org",
+    "ciudad": "Nueva República de Corea",
+    "edad": 41,
+    "genero": null,
+    "registro": "2024-02-22"
+  },
+  {
+    "cliente_id": 15,
+    "nombre": null,
+    "email": "bsegovia@example.org",
+    "ciudad": "Vieja Vietman",
+    "edad": 57,
+    "genero": "F",
+    "registro": "2023-06-03"
+  },
+  {
+    "cliente_id": 16,
+    "nombre": "Francisca René Montaño",
+    "email": "andreagarcia@example.net",
+    "ciudad": "Nueva Senegal",
+    "edad": 54,
+    "genero": null,
+    "registro": "2022-10-11"
+  },
+  {
+    "cliente_id": 17,
+    "nombre": "Ing. Natividad Chapa",
+    "email": "eugenia73@example.net",
+    "ciudad": "San José Emilio los bajos",
+    "edad": 48,
+    "genero": "M",
+    "registro": "2026-03-04"
+  },
+  {
+    "cliente_id": 18,
+    "nombre": "Lic. Javier Cruz",
+    "email": "carmen92@example.net",
+    "ciudad": "Vieja República Dominicana",
+    "edad": 34,
+    "genero": "M",
+    "registro": "2021-10-10"
+  },
+  {
+    "cliente_id": 19,
+    "nombre": "Lorenzo Ulibarri Guzmán",
+    "email": "yuridiatorres@example.net",
+    "ciudad": "San Alonso de la Montaña",
+    "edad": 68,
+    "genero": "M",
+    "registro": "2022-10-08"
+  },
+  {
+    "cliente_id": 20,
+    "nombre": "Cecilia Miguel Alcala Cano",
+    "email": "ypabon@example.org",
+    "ciudad": "San Evelio los bajos",
+    "edad": 20,
+    "genero": "M",
+    "registro": "2026-04-11"
+  },
+  {
+    "cliente_id": 21,
+    "nombre": "Jesús Bañuelos",
+    "email": "rosasgregorio@example.org",
+    "ciudad": "San Alonso los bajos",
+    "edad": 35,
+    "genero": "M",
+    "registro": "2022-01-17"
+  },
+  {
+    "cliente_id": 22,
+    "nombre": "Mtro. Adán Romo",
+    "email": "alonsoaguilar@example.org",
+    "ciudad": "Nueva Bélgica",
+    "edad": 42,
+    "genero": "M",
+    "registro": "2022-04-15"
+  },
+  {
+    "cliente_id": 23,
+    "nombre": "Delia Luna",
+    "email": "paolaojeda@example.com",
+    "ciudad": "Nueva Paraguay",
+    "edad": 34,
+    "genero": "F",
+    "registro": "2025-06-06"
+  },
+  {
+    "cliente_id": 24,
+    "nombre": "Evelio Sarabia",
+    "email": "negretemaria-jose@example.org",
+    "ciudad": "San Irma los altos",
+    "edad": 70,
+    "genero": "M",
+    "registro": "2024-04-26"
+  },
+  {
+    "cliente_id": 25,
+    "nombre": "Cristal Almanza Peña",
+    "email": "tharo@example.org",
+    "ciudad": "Vieja Bhután",
+    "edad": 50,
+    "genero": "F",
+    "registro": "2025-02-27"
+  },
+  {
+    "cliente_id": 26,
+    "nombre": "Graciela Maya",
+    "email": "larageorgina@example.com",
+    "ciudad": "Nueva China",
+    "edad": 35,
+    "genero": "F",
+    "registro": "2024-10-31"
+  },
+  {
+    "cliente_id": 27,
+    "nombre": "Francisco Wendolin Covarrubias",
+    "email": "franciscaespinosa@example.net",
+    "ciudad": "Nueva Timor-Leste",
+    "edad": 70,
+    "genero": "M",
+    "registro": "2021-09-23"
+  },
+  {
+    "cliente_id": 28,
+    "nombre": "Jerónimo Ofelia Roque Tejada",
+    "email": "enrique04@example.com",
+    "ciudad": "Nueva Madagascar",
+    "edad": 25,
+    "genero": "F",
+    "registro": "2024-10-25"
+  },
+  {
+    "cliente_id": 29,
+    "nombre": "Paulina Saavedra",
+    "email": "osaavedra@example.net",
+    "ciudad": "Vieja Georgia",
+    "edad": 59,
+    "genero": "F",
+    "registro": "2023-08-25"
+  },
+  {
+    "cliente_id": 30,
+    "nombre": null,
+    "email": "sin_email",
+    "ciudad": "Nueva Eslovenia",
+    "edad": 28,
+    "genero": "F",
+    "registro": "2024-08-24"
+  },
+  {
+    "cliente_id": 31,
+    "nombre": "María Elena Elsa Calvillo",
+    "email": "sin_email",
+    "ciudad": "Vieja Azerbaiyán",
+    "edad": 21,
+    "genero": "F",
+    "registro": "2022-10-05"
+  },
+  {
+    "cliente_id": 32,
+    "nombre": "Gabino Luisa Bermúdez Vera",
+    "email": "gerardo11@example.net",
+    "ciudad": "Vieja Singapur",
+    "edad": 56,
+    "genero": null,
+    "registro": "2022-06-08"
+  },
+  {
+    "cliente_id": 33,
+    "nombre": "Luis Rojo",
+    "email": "marco-antonio91@example.net",
+    "ciudad": "Vieja Sierra Leona",
+    "edad": 70,
+    "genero": "M",
+    "registro": "2022-03-24"
+  },
+  {
+    "cliente_id": 34,
+    "nombre": "Gustavo Mariana de la Torre",
+    "email": "samuel76@example.net",
+    "ciudad": "San Cristian los altos",
+    "edad": 48,
+    "genero": "F",
+    "registro": "2023-01-16"
+  },
+  {
+    "cliente_id": 35,
+    "nombre": "Carolina Ana Luisa Cortez",
+    "email": "monicacarranza@example.org",
+    "ciudad": "San Sonia de la Montaña",
+    "edad": 68,
+    "genero": null,
+    "registro": "2024-01-24"
+  },
+  {
+    "cliente_id": 36,
+    "nombre": "Ing. Aldonza Ruelas",
+    "email": "quintanillaluis-miguel@example.com",
+    "ciudad": "Vieja Indonesia",
+    "edad": 34,
+    "genero": "F",
+    "registro": "2021-06-18"
+  },
+  {
+    "cliente_id": 37,
+    "nombre": "Laura Melgar Lebrón",
+    "email": "rosa23@example.com",
+    "ciudad": "Nueva Países Bajos",
+    "edad": 55,
+    "genero": "M",
+    "registro": "2025-04-14"
+  },
+  {
+    "cliente_id": 38,
+    "nombre": "Rodolfo Carrero Rubio",
+    "email": "benito64@example.org",
+    "ciudad": "Nueva Bosnia y Herzegovina",
+    "edad": 30,
+    "genero": null,
+    "registro": "2023-01-26"
+  },
+  {
+    "cliente_id": 39,
+    "nombre": "Felix Aguilera Barragán",
+    "email": "nancy29@example.com",
+    "ciudad": "San Bernardo los altos",
+    "edad": 27,
+    "genero": null,
+    "registro": "2023-10-31"
+  },
+  {
+    "cliente_id": 40,
+    "nombre": "Gabriela Alfonso Olivares Macías",
+    "email": "emilio40@example.org",
+    "ciudad": "Vieja Suiza",
+    "edad": 20,
+    "genero": null,
+    "registro": "2025-12-12"
+  },
+  {
+    "cliente_id": 41,
+    "nombre": "Abel Zeferino Vásquez Elizondo",
+    "email": "horaciocastellanos@example.net",
+    "ciudad": "San Adriana los altos",
+    "edad": 26,
+    "genero": null,
+    "registro": "2025-05-23"
+  },
+  {
+    "cliente_id": 42,
+    "nombre": "Lic. Asunción Acuña",
+    "email": "sin_email",
+    "ciudad": "San Emilio de la Montaña",
+    "edad": 61,
+    "genero": "F",
+    "registro": "2024-03-04"
+  },
+  {
+    "cliente_id": 43,
+    "nombre": "Mauricio Jorge Cordero",
+    "email": "rbarraza@example.com",
+    "ciudad": "Vieja Togo",
+    "edad": null,
+    "genero": null,
+    "registro": "2024-04-10"
+  },
+  {
+    "cliente_id": 44,
+    "nombre": "Esmeralda Georgina Espinal",
+    "email": "ypulido@example.net",
+    "ciudad": "Nueva Portugal",
+    "edad": 67,
+    "genero": "F",
+    "registro": "2022-10-01"
+  },
+  {
+    "cliente_id": 45,
+    "nombre": "Abraham Farías",
+    "email": "dtoledo@example.net",
+    "ciudad": "San Reynaldo los bajos",
+    "edad": 71,
+    "genero": null,
+    "registro": "2024-03-24"
+  },
+  {
+    "cliente_id": 46,
+    "nombre": "Yuridia Adriana Garibay",
+    "email": "mtejeda@example.org",
+    "ciudad": "San Hilda los bajos",
+    "edad": 32,
+    "genero": "M",
+    "registro": "2023-07-15"
+  },
+  {
+    "cliente_id": 47,
+    "nombre": "Omar Calvillo",
+    "email": "lorenzocisneros@example.com",
+    "ciudad": "Vieja Côte d'Ivoire",
+    "edad": 30,
+    "genero": "M",
+    "registro": "2025-01-30"
+  },
+  {
+    "cliente_id": 48,
+    "nombre": "Elisa Cristian Gastélum",
+    "email": "eolmos@example.org",
+    "ciudad": "San Horacio los bajos",
+    "edad": 25,
+    "genero": null,
+    "registro": "2024-03-07"
+  },
+  {
+    "cliente_id": 49,
+    "nombre": null,
+    "email": "zoeochoa@example.org",
+    "ciudad": "Vieja Eslovenia",
+    "edad": 38,
+    "genero": "F",
+    "registro": "2024-07-21"
+  },
+  {
+    "cliente_id": 50,
+    "nombre": "Rosa Cristobal Huerta",
+    "email": "elsade-la-cruz@example.com",
+    "ciudad": "Vieja Granada",
+    "edad": 34,
+    "genero": "M",
+    "registro": "2021-08-19"
+  },
+  {
+    "cliente_id": 51,
+    "nombre": "Lic. Ana Lira",
+    "email": "imaestas@example.net",
+    "ciudad": "Vieja Yemen",
+    "edad": 35,
+    "genero": "F",
+    "registro": "2022-02-13"
+  },
+  {
+    "cliente_id": 52,
+    "nombre": "Silvia Córdova",
+    "email": "valeman@example.net",
+    "ciudad": "San Juan Carlos los altos",
+    "edad": 48,
+    "genero": "F",
+    "registro": "2025-10-09"
+  },
+  {
+    "cliente_id": 53,
+    "nombre": "Lic. Luz Prado",
+    "email": "rodrigo08@example.com",
+    "ciudad": "San Fabiola de la Montaña",
+    "edad": 37,
+    "genero": null,
+    "registro": "2022-08-23"
+  },
+  {
+    "cliente_id": 54,
+    "nombre": "Dr. María Cristina Maestas",
+    "email": "ysalazar@example.com",
+    "ciudad": "Nueva Bahrein",
+    "edad": 72,
+    "genero": "M",
+    "registro": "2023-12-15"
+  },
+  {
+    "cliente_id": 55,
+    "nombre": "Sr(a). Natalia Quintana",
+    "email": "eloisa50@example.com",
+    "ciudad": "Nueva Niger",
+    "edad": 28,
+    "genero": "M",
+    "registro": "2022-12-25"
+  },
+  {
+    "cliente_id": 56,
+    "nombre": "Reina Cadena Pichardo",
+    "email": "adrianamadrigal@example.org",
+    "ciudad": "Nueva Camboya",
+    "edad": 53,
+    "genero": null,
+    "registro": "2022-11-14"
+  },
+  {
+    "cliente_id": 57,
+    "nombre": "Mónica Beatriz Bustos Rivero",
+    "email": "rcamarillo@example.org",
+    "ciudad": "San Manuel los altos",
+    "edad": 58,
+    "genero": "M",
+    "registro": "2023-01-15"
+  },
+  {
+    "cliente_id": 58,
+    "nombre": "Isabel Mitzy Solorzano",
+    "email": "vicente84@example.org",
+    "ciudad": "San Jacobo de la Montaña",
+    "edad": 56,
+    "genero": "F",
+    "registro": "2025-05-06"
+  },
+  {
+    "cliente_id": 59,
+    "nombre": "Dulce José Luis Garibay",
+    "email": "evazelaya@example.org",
+    "ciudad": "San Alejandra de la Montaña",
+    "edad": 56,
+    "genero": "M",
+    "registro": "2021-07-02"
+  },
+  {
+    "cliente_id": 60,
+    "nombre": "Aurora Sepúlveda Olivera",
+    "email": "gabriela65@example.com",
+    "ciudad": "San Indira los altos",
+    "edad": 59,
+    "genero": null,
+    "registro": "2024-11-26"
+  },
+  {
+    "cliente_id": 61,
+    "nombre": "Espartaco Reina Loera Trejo",
+    "email": "hlozada@example.org",
+    "ciudad": "San Claudia de la Montaña",
+    "edad": null,
+    "genero": "F",
+    "registro": "2022-03-30"
+  },
+  {
+    "cliente_id": 62,
+    "nombre": "María Luisa Leticia Abrego",
+    "email": "estefania30@example.org",
+    "ciudad": "Nueva Paraguay",
+    "edad": 60,
+    "genero": null,
+    "registro": "2023-11-09"
+  },
+  {
+    "cliente_id": 63,
+    "nombre": "Carlos Andrés Mateo",
+    "email": "sin_email",
+    "ciudad": "San Arcelia de la Montaña",
+    "edad": 51,
+    "genero": "F",
+    "registro": "2026-03-21"
+  },
+  {
+    "cliente_id": 64,
+    "nombre": "Noelia Mariano Medrano",
+    "email": "dominguezangela@example.org",
+    "ciudad": "San Enrique de la Montaña",
+    "edad": 59,
+    "genero": "M",
+    "registro": "2025-01-21"
+  },
+  {
+    "cliente_id": 65,
+    "nombre": "Mtro. José Emilio Zamudio",
+    "email": "maria-teresasaenz@example.org",
+    "ciudad": "San Sandra los bajos",
+    "edad": 43,
+    "genero": "M",
+    "registro": "2022-08-15"
+  },
+  {
+    "cliente_id": 66,
+    "nombre": "Eva Pedro Peralta",
+    "email": "ivonne54@example.com",
+    "ciudad": "San Homero de la Montaña",
+    "edad": 18,
+    "genero": "M",
+    "registro": "2024-07-16"
+  },
+  {
+    "cliente_id": 67,
+    "nombre": "Cristian Sauceda",
+    "email": "violetaarce@example.com",
+    "ciudad": "Nueva Saint Kitts y Nevis",
+    "edad": 53,
+    "genero": null,
+    "registro": "2022-01-15"
+  },
+  {
+    "cliente_id": 68,
+    "nombre": "Hermelinda Barrios Meléndez",
+    "email": "de-la-torrejudith@example.net",
+    "ciudad": "Nueva República Democrática Popular Lao",
+    "edad": 56,
+    "genero": "F",
+    "registro": "2022-05-14"
+  },
+  {
+    "cliente_id": 69,
+    "nombre": "Rodrigo Rosales",
+    "email": "luis-miguel74@example.com",
+    "ciudad": "Nueva Niger",
+    "edad": null,
+    "genero": "F",
+    "registro": "2024-04-26"
+  },
+  {
+    "cliente_id": 70,
+    "nombre": "Mariana Solís",
+    "email": "saldivarelena@example.com",
+    "ciudad": "San Luis Miguel los bajos",
+    "edad": 36,
+    "genero": "M",
+    "registro": "2022-05-16"
+  },
+  {
+    "cliente_id": 71,
+    "nombre": "Daniela Marroquín Santiago",
+    "email": "guillermina36@example.org",
+    "ciudad": "San Héctor de la Montaña",
+    "edad": 74,
+    "genero": null,
+    "registro": "2025-06-30"
+  },
+  {
+    "cliente_id": 72,
+    "nombre": "Mitzy Aldo Narváez Castillo",
+    "email": "marisela88@example.org",
+    "ciudad": "Vieja Bolivia",
+    "edad": 42,
+    "genero": null,
+    "registro": "2022-11-20"
+  },
+  {
+    "cliente_id": 73,
+    "nombre": "Jonás Galván",
+    "email": "ana74@example.org",
+    "ciudad": "Vieja Estonia",
+    "edad": 67,
+    "genero": "F",
+    "registro": "2025-06-18"
+  },
+  {
+    "cliente_id": 74,
+    "nombre": "Ricardo Valdés",
+    "email": "andrea86@example.com",
+    "ciudad": "San Nadia de la Montaña",
+    "edad": 48,
+    "genero": "M",
+    "registro": "2026-03-07"
+  },
+  {
+    "cliente_id": 75,
+    "nombre": "Oswaldo Clemente Meza Montemayor",
+    "email": "de-la-oteodoro@example.net",
+    "ciudad": "San Dulce de la Montaña",
+    "edad": 32,
+    "genero": "F",
+    "registro": "2022-06-13"
+  },
+  {
+    "cliente_id": 76,
+    "nombre": "Marisol Sergio Robles Leiva",
+    "email": "ordonezaida@example.net",
+    "ciudad": "Nueva Emiratos Árabes Unidos",
+    "edad": 52,
+    "genero": "M",
+    "registro": "2023-10-12"
+  },
+  {
+    "cliente_id": 77,
+    "nombre": "Benito Luna Collazo",
+    "email": "tpantoja@example.org",
+    "ciudad": "Nueva San Marino",
+    "edad": 43,
+    "genero": "M",
+    "registro": "2022-07-13"
+  },
+  {
+    "cliente_id": 78,
+    "nombre": "Benito Alarcón Nevárez",
+    "email": "varelaelena@example.com",
+    "ciudad": "San Frida los bajos",
+    "edad": 40,
+    "genero": "F",
+    "registro": "2022-06-07"
+  },
+  {
+    "cliente_id": 79,
+    "nombre": "Olivia Alfredo Martínez",
+    "email": "aldovigil@example.org",
+    "ciudad": "Vieja Chile",
+    "edad": 61,
+    "genero": "F",
+    "registro": "2021-08-24"
+  },
+  {
+    "cliente_id": 80,
+    "nombre": "Alejandra José María del Valle",
+    "email": "jose-mariasolorio@example.net",
+    "ciudad": "Nueva Indonesia",
+    "edad": 73,
+    "genero": "M",
+    "registro": "2021-12-13"
+  },
+  {
+    "cliente_id": 81,
+    "nombre": "Cristina Oswaldo Heredia Rodríguez",
+    "email": "silvanozamudio@example.net",
+    "ciudad": "San Camilo los altos",
+    "edad": 57,
+    "genero": "M",
+    "registro": "2022-05-13"
+  },
+  {
+    "cliente_id": 82,
+    "nombre": "Ing. Ana Luisa Marín",
+    "email": "juanamolina@example.net",
+    "ciudad": "San Aldonza de la Montaña",
+    "edad": 61,
+    "genero": "F",
+    "registro": "2021-10-17"
+  },
+  {
+    "cliente_id": 83,
+    "nombre": "Ruby Frías Núñez",
+    "email": "de-la-cruzabigail@example.com",
+    "ciudad": "Vieja Qatar",
+    "edad": 20,
+    "genero": "F",
+    "registro": "2023-05-10"
+  },
+  {
+    "cliente_id": 84,
+    "nombre": "Estela Terrazas",
+    "email": "claudio18@example.org",
+    "ciudad": "Nueva Egipto",
+    "edad": 74,
+    "genero": null,
+    "registro": "2025-03-01"
+  },
+  {
+    "cliente_id": 85,
+    "nombre": "Dulce Joaquín Herrera",
+    "email": "carlota42@example.com",
+    "ciudad": "Nueva Etiopía",
+    "edad": 50,
+    "genero": "M",
+    "registro": "2024-12-04"
+  },
+  {
+    "cliente_id": 86,
+    "nombre": "Karla Miguel Ángel Lemus Mercado",
+    "email": "lucascalvillo@example.com",
+    "ciudad": "Nueva Guinea Ecuatorial",
+    "edad": 51,
+    "genero": "F",
+    "registro": "2022-06-21"
+  },
+  {
+    "cliente_id": 87,
+    "nombre": "Judith Ávila",
+    "email": "palaciossusana@example.net",
+    "ciudad": "Nueva República de Macedonia del Norte",
+    "edad": 43,
+    "genero": "F",
+    "registro": "2023-08-26"
+  },
+  {
+    "cliente_id": 88,
+    "nombre": "Virginia Ana Razo Véliz",
+    "email": "xarredondo@example.org",
+    "ciudad": "San Jos los altos",
+    "edad": 38,
+    "genero": "M",
+    "registro": "2024-12-10"
+  },
+  {
+    "cliente_id": 89,
+    "nombre": null,
+    "email": "elvira53@example.net",
+    "ciudad": "Nueva Mozambique",
+    "edad": 38,
+    "genero": "M",
+    "registro": "2023-12-15"
+  },
+  {
+    "cliente_id": 90,
+    "nombre": "Mtro. Zoé Sepúlveda",
+    "email": "arenasvictoria@example.com",
+    "ciudad": "San Gloria los bajos",
+    "edad": 33,
+    "genero": "M",
+    "registro": "2023-12-19"
+  },
+  {
+    "cliente_id": 91,
+    "nombre": "Mtro. Luz Madrid",
+    "email": "antonioacevedo@example.org",
+    "ciudad": "San Hilda los bajos",
+    "edad": 49,
+    "genero": "F",
+    "registro": "2021-07-07"
+  },
+  {
+    "cliente_id": 92,
+    "nombre": "Ignacio Josefina Cordero",
+    "email": "ofeliarobles@example.net",
+    "ciudad": "San Mario de la Montaña",
+    "edad": 72,
+    "genero": "F",
+    "registro": "2026-02-13"
+  },
+  {
+    "cliente_id": 93,
+    "nombre": "Javier Isabela Polanco",
+    "email": "miguel-angel88@example.net",
+    "ciudad": "Nueva Turquía",
+    "edad": 54,
+    "genero": "F",
+    "registro": "2026-01-25"
+  },
+  {
+    "cliente_id": 94,
+    "nombre": "José Emilio Saucedo",
+    "email": "barajasrafael@example.com",
+    "ciudad": "San Florencia de la Montaña",
+    "edad": 53,
+    "genero": "F",
+    "registro": "2026-03-02"
+  },
+  {
+    "cliente_id": 95,
+    "nombre": "Francisco Javier Cristian Viera Pineda",
+    "email": "bborrego@example.com",
+    "ciudad": "San Abril los bajos",
+    "edad": 65,
+    "genero": "F",
+    "registro": "2021-10-08"
+  },
+  {
+    "cliente_id": 96,
+    "nombre": "Mtro. Sergio Iglesias",
+    "email": "sin_email",
+    "ciudad": "San Estela de la Montaña",
+    "edad": 26,
+    "genero": null,
+    "registro": "2022-03-01"
+  },
+  {
+    "cliente_id": 97,
+    "nombre": "Benjamín Vigil",
+    "email": "wsauceda@example.net",
+    "ciudad": "Nueva Sudáfrica",
+    "edad": 34,
+    "genero": null,
+    "registro": "2025-01-06"
+  },
+  {
+    "cliente_id": 98,
+    "nombre": "Adriana Nayeli Valenzuela Pantoja",
+    "email": "sin_email",
+    "ciudad": "Nueva Lesotho",
+    "edad": 28,
+    "genero": "M",
+    "registro": "2024-06-01"
+  },
+  {
+    "cliente_id": 99,
+    "nombre": "Lic. Mauricio Quiñónez",
+    "email": "vanegaslilia@example.org",
+    "ciudad": "Nueva Líbano",
+    "edad": 24,
+    "genero": "F",
+    "registro": "2024-06-02"
+  },
+  {
+    "cliente_id": 100,
+    "nombre": "Lic. Víctor Maestas",
+    "email": "olivaresdalia@example.com",
+    "ciudad": "Nueva Uruguay",
+    "edad": 53,
+    "genero": "M",
+    "registro": "2024-09-24"
+  }
+]
